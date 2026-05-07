@@ -87,6 +87,14 @@ Community-powered grocery price intelligence. Civic tech, open data, free foreve
 
 ---
 
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=takippu&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
+</p>
+
+---
+
 ## Contributions snake
 
 ![Snake animation](https://raw.githubusercontent.com/takippu/takippu/output/github-contribution-grid-snake-dark.svg)

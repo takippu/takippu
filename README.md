@@ -48,31 +48,37 @@ laravel crms · next.js on cloudflare workers · expo mobile apps
 
 ## Featured
 
-<a href="https://github.com/takippu/MavisCode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=takippu&repo=MavisCode&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/takippu/xvault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=takippu&repo=xvault&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/takippu/myamanah">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=takippu&repo=myamanah&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/takippu/barangIndex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=takippu&repo=barangIndex&theme=tokyonight&hide_border=true" />
-</a>
+### [MavisCode](https://github.com/takippu/MavisCode)
+Memory-driven AI collaborator scaffold for Claude Code. Survives session boundaries. *MIT.*
 
-> **Mavis** — memory-driven AI collaborator scaffold. *MIT.*
-> **xVault** — privacy-first browser extension for snippets and notes. AES-GCM, local-first.
-> **MyAmanah** — zero-knowledge legacy organizer with deadman switch.
-> **GroceryIndex** — community-powered grocery price intelligence. Civic tech.
+![stars](https://img.shields.io/github/stars/takippu/MavisCode?style=flat-square&logo=github&label=stars&color=7AA2F7) ![language](https://img.shields.io/github/languages/top/takippu/MavisCode?style=flat-square&color=7AA2F7) ![updated](https://img.shields.io/github/last-commit/takippu/MavisCode?style=flat-square&color=7AA2F7&label=updated)
+
+### [xVault](https://github.com/takippu/xvault)
+Privacy-first browser extension for snippets and notes. AES-GCM, local-first, zero plaintext leaves your machine.
+
+![stars](https://img.shields.io/github/stars/takippu/xvault?style=flat-square&logo=github&label=stars&color=7AA2F7) ![language](https://img.shields.io/github/languages/top/takippu/xvault?style=flat-square&color=7AA2F7) ![updated](https://img.shields.io/github/last-commit/takippu/xvault?style=flat-square&color=7AA2F7&label=updated)
+
+### [MyAmanah](https://github.com/takippu/myamanah)
+Zero-knowledge legacy organizer with deadman switch. Local-first encryption, optional encrypted backup we can't read.
+
+![stars](https://img.shields.io/github/stars/takippu/myamanah?style=flat-square&logo=github&label=stars&color=7AA2F7) ![language](https://img.shields.io/github/languages/top/takippu/myamanah?style=flat-square&color=7AA2F7) ![updated](https://img.shields.io/github/last-commit/takippu/myamanah?style=flat-square&color=7AA2F7&label=updated)
+
+### [GroceryIndex](https://github.com/takippu/barangIndex)
+Community-powered grocery price intelligence. Civic tech, open data, free forever.
+
+![stars](https://img.shields.io/github/stars/takippu/barangIndex?style=flat-square&logo=github&label=stars&color=7AA2F7) ![language](https://img.shields.io/github/languages/top/takippu/barangIndex?style=flat-square&color=7AA2F7) ![updated](https://img.shields.io/github/last-commit/takippu/barangIndex?style=flat-square&color=7AA2F7&label=updated)
 
 ---
 
 ## Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=takippu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takippu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takippu&theme=github_dark" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takippu&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takippu&theme=github_dark" />
 </p>
 
 <p>
